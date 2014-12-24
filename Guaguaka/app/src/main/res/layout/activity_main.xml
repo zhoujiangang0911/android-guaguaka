@@ -1,0 +1,18 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:zhoujg="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+   >
+
+    <com.zhoujg77.guaguaka.Guaka
+        android:id="@+id/id_gua"
+        zhoujg:text="￥500000万"
+        zhoujg:textSize="20sp"
+        zhoujg:textColor="#ff00f0"
+        android:layout_centerInParent="true"
+        android:layout_width="300dp"
+        android:layout_height="100dp" />
+
+</RelativeLayout>
